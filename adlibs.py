@@ -1,6 +1,6 @@
 #We the people adlibs py
 import urllib2
-import simplejson as json
+import json
 import nltk
 import random
 import argparse
